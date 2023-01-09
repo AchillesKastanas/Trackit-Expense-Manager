@@ -1,5 +1,5 @@
 .expenses-filter {
-    color: white;
+    color: #000000;
     padding: 0 1rem;
   }
   
@@ -9,6 +9,14 @@
     align-items: center;
     justify-content: space-between;
     margin: 1rem 0;
+  }
+
+  .expenses-filter select {
+    border: 2px solid #253237;
+    background-color: #e0fbfc;
+    color: #253237;
+    font-weight: bold;
+    border-radius: 12px;
   }
   
   .expenses-filter label {

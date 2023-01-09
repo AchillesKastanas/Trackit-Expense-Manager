@@ -19,6 +19,11 @@
     border: 1px solid #ccc;
     width: 20rem;
     max-width: 100%;
+    border: 2px solid #253237;
+    background-color: #e0fbfc;
+    color: #253237;
+    font-weight: bold;
+    border-radius: 12px;
   }
   
   .new-expense__actions {
